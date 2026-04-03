@@ -1,0 +1,11 @@
+Features of Java8
+Lambda Function
+Stream API
+Data and Time API
+Base64 Encode Decode
+Method Refrence and Constructor Refrence :: operator
+Default method in interface
+Functional Interface
+
+Functional Interface => Interface having exacly single abstract method but can have any number of defaults and static methods.We can invoke lambda function using
+Static Method => Static method can only be called by it's implemntation (The static method is in the implemntation class) and we cannot override it
