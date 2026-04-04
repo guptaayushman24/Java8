@@ -9,3 +9,6 @@ Functional Interface
 
 Functional Interface => Interface having exacly single abstract method but can have any number of defaults and static methods.We can invoke lambda function using
 Static Method => Static method can only be called by it's implemntation (The static method is in the implemntation class) and we cannot override it
+Predicate => It is the functional interface and have only method which is the Test (Boolean)
+Function=> It is the interface it also returns the result
+Method Reference=> When we need to pass the function in the argument then we use the Method Refrence
