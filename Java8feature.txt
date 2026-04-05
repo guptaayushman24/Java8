@@ -12,3 +12,12 @@ Static Method => Static method can only be called by it's implemntation (The sta
 Predicate => It is the functional interface and have only method which is the Test (Boolean)
 Function=> It is the interface it also returns the result
 Method Reference=> When we need to pass the function in the argument then we use the Method Refrence
+LocalDateTime => LocalDate
+                  LocalTime
+                  LocalDateTime
+                  ZonedDateTime
+                  Instant
+                  Duration
+                  Period
+                  DateTimeFormatter
+                  
